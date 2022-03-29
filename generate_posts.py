@@ -68,7 +68,7 @@ class txt_parser():
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title> hell world </title>
         </head>
-        <body style="background-color: #333333; text-align:center; margin: 0 auto;">"""
+        <body style="background-color: #0f0f0f; text-align:center; margin: 0 auto;">"""
         footer = """
         </body>
     </html>
