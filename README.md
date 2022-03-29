@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-<img src="imgs/html_post.png" width="480" height="360">
+<img src="imgs/post.png" width="480" height="360">
 </p>
 
 <p align="left">
