@@ -1,5 +1,5 @@
-<h1> serverless_blog </h1>
-<p> a futuristic oldschool blog </p>
+<h1> lit_archive </h1>
+<p> a cool and easy way to maintain a web archive  </p>
 
 <p align="left">
 <img src="imgs/root.png" width="480" height="360">
