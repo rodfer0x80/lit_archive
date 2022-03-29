@@ -1,0 +1,2 @@
+build config script
+adjust txtparser + autobuild app with changes
