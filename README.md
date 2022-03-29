@@ -1,5 +1,5 @@
 <h1> serverless_blog <h1>
-<p> super slim blog <p>
+<p> a futuristic oldschool blog <p>
 
 <p align="left">
 <img src="imgs/root.png" width="480" height="360">
